@@ -1,11 +1,16 @@
 ---
 title: "Using Stable Isotopes as Tracers"
-author: "Edward P. Morris"
+author:
+  company: University of Cadiz
+  github: https://github.com/edwardpmorris
+  name: Edward P. Morris
+  twitter: '@EdwardPMorris'
+  www: http://rnm214.uca.es/CV/emorris/cvepmorris
 date: "September 29, 2015"
 output:
   ioslides_presentation:
-    logo: assets/ceimar-logo-185-90.jpg
-  slidy_presentation: default
+    logo: assets/UCA-ceimar-logo-480-198-transparent.png
+    css: config/ioslides_ciemar.css
 ---
 
 ## Content
