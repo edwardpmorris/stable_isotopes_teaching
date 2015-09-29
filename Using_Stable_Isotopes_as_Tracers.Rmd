@@ -1,0 +1,49 @@
+---
+title: "Using Stable Isotopes as Tracers"
+author: "Edward P. Morris"
+date: "September 29, 2015"
+output:
+  ioslides_presentation:
+    logo: assets/ceimar-logo-185-90.jpg
+  slidy_presentation: default
+---
+
+## Content
+
++ duration: 2 h teaching session; 1 h theory, 1 h practice on PC
++ audience: PhD students and post-docs
+
+## Aims
+
++ introduce stable isotope tracer techniques
++ provide important terminology
++ give sources of important literature and help
++ give tools for calculations
++ ensure participants can design and analyse stable isotope tracer experiments
+
+## Requirements
+
++ familiarity with general stable isotope terminology
++ access to PC with R and Rstudio
++ a basic idea for a tracer experiment (optional)
+
+## Outline
+    
++ When natural abundance is not enough...
+    + tracing nutrient cycling
+        + biogeocheistry
+        + foodwebs
++ Stable isotope specific terminology
++ Where can I find some help?
+    + Important literature
+    + Forums, groups and software
+
+## Outline
+
++ How do I calculate that?
+    + Basic calculations
+    + Using specific software packages
++ My 'first' stable isotope tracer experimental design
+    + Setting up the basic calculations
+    + Calculating costs
+    + Analysing results
