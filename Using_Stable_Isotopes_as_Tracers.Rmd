@@ -16,21 +16,27 @@ output:
 
 ## Content
 
-+ duration: 2 h teaching session; 1 h theory, 1 h practice on PC
-+ audience: PhD students and post-docs
++ duration: 3 h teaching session; 1.5 h theory, 1.5 h practice on PC
++ audience: Msc., PhD students and post-docs
 
 ## Aims
 
 + introduce stable isotope tracer techniques
-+ provide important terminology
++ provide important terminology specific to tracers
 + give sources of important literature and help
 + give tools for calculations
 + ensure participants can design and analyse stable isotope tracer experiments
 
+## Assessment
+
++ participation in mini excercises during teaching
++ complete excercises on PC
++ grading of students 1 page 'mock' isotope tracer experiment (optional?)
+
 ## Requirements
 
-+ familiarity with general stable isotope terminology
-+ access to PC with R and Rstudio
++ familiarity with general stable isotope terminology (see [lectures]())
++ access to PC with [R](https://cran.r-project.org) and [Rstudio](https://www.rstudio.com/) (try and get Shiny server up and then just a web browser) 
 + a basic idea for a tracer experiment (optional)
 
 ## Outline
